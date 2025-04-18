@@ -12,6 +12,7 @@ This project is an end-to-end Exploratory Data Analysis (EDA) of the **Data Anal
 ## 📁 Project Structure
 
 | Notebook | Description |
+
 |----------|-------------|
 | `EDA_Intro.ipynb` | Dataset overview and structure of job data |
 | `Skill_Demand.ipynb` | Most in-demand tools and technologies |
