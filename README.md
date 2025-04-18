@@ -23,7 +23,7 @@ This project is an end-to-end Exploratory Data Analysis (EDA) of the **Data Anal
 ## 📈 Key Insights 
 
 ### 🧠 Top In-Demand Skills:
-![Likelihood of Skill Requested in Indian Job Posting](images/Images/6)% Skill Counts.png)
+![Likelihood of Skill Requested in Indian Job Posting](images/Images/6_% Skill Counts.png)
 
 - **SQL** is the core skill for Data Analysts. **Excel** and BI tools like **Tableau** & **Power BI** are still heavily used.
 - **SQL** and **Python** are essential for data engineers. Meanwhile, Cloud and big data tools like **Spark**, **AWS**, and **Azure** show a strong presence.
