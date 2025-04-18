@@ -23,7 +23,10 @@ This project is an end-to-end Exploratory Data Analysis (EDA) of the **Data Anal
 ## 📈 Key Insights 
 
 ### 🧠 Top In-Demand Skills:
-![Top In-Demand Skills](images/Images/6_%25%20Skill%20Counts.png)
+
+To find the most in-demand skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. 
+
+![Results](images/Images/6_%25%20Skill%20Counts.png)
 
 - **SQL** is the core skill for Data Analysts. **Excel** and BI tools like **Tableau** & **Power BI** are still heavily used.
 - **SQL** and **Python** are essential for data engineers. Meanwhile, Cloud and big data tools like **Spark**, **AWS**, and **Azure** show a strong presence.
