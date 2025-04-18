@@ -36,7 +36,7 @@ To find the most in-demand skills for the top 3 most popular data roles. I filte
 
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
-![Results](images/Images/8_% Top Skills.png)
+![Results](images/Images/8_%25%20Top%20Skills.png)
 
 - SQL is a non-negotiable skill, appearing in over 60% of postings.
 - Python (~44%) consistently ranks slightly higher than Excel (~39%) in job postings yearly, indicating that employers are increasingly preferring candidates who can automate and scale analyses.
@@ -44,6 +44,9 @@ To find how skills are trending in 2023 for Data Analysts, I filtered data analy
 
 
 ### 💰 Salary Distribution by Role (USD):
+To identify the highest-paying roles and skills, I only looked at jobs in India and their median salary. But first, I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most.
+
+![Results](images/Images/9_Salary%20Distribution.png)
 
 - Data Analyst is a solid entry point, but transitioning can yield 60–80% higher pay.
 - Machine Learning Engineers** command the highest median salary.
