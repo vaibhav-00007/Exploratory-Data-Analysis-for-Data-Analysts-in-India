@@ -34,6 +34,10 @@ To find the most in-demand skills for the top 3 most popular data roles. I filte
 
 ### ⚙️ Skill Trends:
 
+To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
+
+![Results](images/Images/8_% Top Skills.png)
+
 - SQL is a non-negotiable skill, appearing in over 60% of postings.
 - Python (~44%) consistently ranks slightly higher than Excel (~39%) in job postings yearly, indicating that employers are increasingly preferring candidates who can automate and scale analyses.
 - Power BI shows faster market growth (+160% YoY), while Tableau maintains steady demand (+75%).
