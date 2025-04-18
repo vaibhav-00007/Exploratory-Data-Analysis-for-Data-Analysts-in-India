@@ -23,7 +23,6 @@ This project is an end-to-end Exploratory Data Analysis (EDA) of the **Data Anal
 ## 📈 Key Insights 
 
 ### 🧠 Top In-Demand Skills:
-![Likelihood of Skill Requested in Indian Job Posting](images/Images/6_% Skill Counts.png)
 
 - **SQL** is the core skill for Data Analysts. **Excel** and BI tools like **Tableau** & **Power BI** are still heavily used.
 - **SQL** and **Python** are essential for data engineers. Meanwhile, Cloud and big data tools like **Spark**, **AWS**, and **Azure** show a strong presence.
@@ -51,6 +50,7 @@ This project is an end-to-end Exploratory Data Analysis (EDA) of the **Data Anal
 - Cloud platforms (Azure, AWS) offer moderate pay, likely more valuable when combined with other skills.
 
 ### 🔹 Most optimal Skills:
+
 **High Demand & Good Salary:**
 - **Python** (around 42% of jobs, ~$96K median salary): A versatile programming language crucial for data manipulation, analysis, and machine learning.
 - **Excel** (around 41% of jobs, ~$99K median salary): Still a fundamental tool for data handling, cleaning, and basic analysis.
